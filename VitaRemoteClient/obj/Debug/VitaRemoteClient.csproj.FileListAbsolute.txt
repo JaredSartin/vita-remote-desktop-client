@@ -1,0 +1,136 @@
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.Pss.HighLevel.UI.dll
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe.mdb
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.Pss.HighLevel.UI.dll
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe.mdb
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psspac
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\pssapp.exe.mdb
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.exe
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.pdb
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.cfg
+C:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.cfg
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.Pss.HighLevel.UI.dll
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe.mdb
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.cfg
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.Pss.HighLevel.UI.dll
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe.mdb
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.cfg
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psspac
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\pssapp.exe.mdb
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.exe
+C:\Users\PICSNMOTION\Documents\Projects\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.pdb
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.Pss.HighLevel.UI.dll
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe.mdb
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.cfg
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.Pss.HighLevel.UI.dll
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe.mdb
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.cfg
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psspac
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\pssapp.exe.mdb
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.exe
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.pdb
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.Pss.HighLevel.UI.dll
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\pssapp.exe.mdb
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.cfg
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.Pss.HighLevel.UI.dll
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\pssapp.exe.mdb
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.cfg
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psspac
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\pssapp.exe.mdb
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.exe
+D:\Edison\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\pssapp.pdb
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\12.jpg
+D:\programs\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\12.jpg
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.info
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.exe
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.exe.mdb
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\edata.list
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\12.jpg
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.info
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.exe
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.exe.mdb
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\edata.list
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\12.jpg
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psdp
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\app.exe.mdb
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\app.exe
+D:\programs\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\app.pdb
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.info
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.exe
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\System.Core.dll
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\app.exe.mdb
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\edata.list
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-unsigned\Application\12.jpg
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.info
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.exe
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\System.Core.dll
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\app.exe.mdb
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\edata.list
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient-signed\Application\12.jpg
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\bin\Debug\VitaRemoteClient.psdp
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Simple.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\shaders\shaders\Texture.cgx
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\app.exe
+C:\Users\PICSNMOTION\Desktop\0.99 SDK\PS VITA REMOTE DESKTOP\VitaRemoteClient\VitaRemoteClient\obj\Debug\app.pdb

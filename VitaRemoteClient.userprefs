@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VitaRemoteClient\UI\Dialog\dlg_connection.cs">
+    <Files>
+      <File FileName="VitaRemoteClient\Packet\Packet.cs" Line="43" Column="61" />
+      <File FileName="VitaRemoteClient\Packet\SendPacket.cs" Line="62" Column="33" />
+      <File FileName="VitaRemoteClient\UI\MainUI.composer.cs" Line="57" Column="4" />
+      <File FileName="VitaRemoteClient\UI\Dialog\dlg_connection.cs" Line="13" Column="32" />
+      <File FileName="VitaRemoteClient\Draw.cs" Line="1" Column="1" />
+      <File FileName="VitaRemoteClient\Extensions.cs" Line="1" Column="1" />
+      <File FileName="VitaRemoteClient\Frame.cs" Line="17" Column="3" />
+      <File FileName="VitaRemoteClient\Input.cs" Line="122" Column="27" />
+      <File FileName="VitaRemoteClient\UI\MainUI.cs" Line="52" Column="5" />
+      <File FileName="VitaRemoteClient\TCPConnection.cs" Line="287" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="VitaRemoteClient" expanded="True">
+            <Node name="Packet" expanded="True" />
+            <Node name="UI" expanded="True">
+              <Node name="Dialog" expanded="True">
+                <Node name="dlg_connection.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="c:\Users\Edison\Documents\Projects\VitaRemoteClient\VitaRemoteClient\SendPacket.cs" line="19" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
